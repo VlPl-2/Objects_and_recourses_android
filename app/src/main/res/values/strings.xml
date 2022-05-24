@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="TW_string">ФВТ ПГУ</string>
+    <string name="button_string">Переключить</string>
+</resources>
